@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+//Idk why github doesn't update this stuff better
    
     const sect = document.querySelector('section');
     const para = document.createElement('p');
@@ -14,4 +14,3 @@ $(document).ready(function(){
     });
 });
 
-//Hi
